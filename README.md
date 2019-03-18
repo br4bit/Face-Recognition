@@ -43,3 +43,6 @@ It's a 1:N Face Recognition Problem. The function ``` who_is_it() ``` will retur
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Acknowledgments
+Imagination

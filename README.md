@@ -18,4 +18,6 @@ Open Face_Recognition.ipynb with Colaboratory
 >> John
 >>> img1.jpg,img2.jpg,img3.jpg,ecc.
 
-The code cell will load all images in directory (all formats are accepted).
+The code cell will load all images in directory (all formats are accepted).<br>
+_Note: More images will improve accuracy of algorithm.<br>
+it is advisable to use 10 images per person, taken in different light and ambient conditions_

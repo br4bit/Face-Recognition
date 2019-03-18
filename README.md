@@ -39,7 +39,7 @@ It's a 1:N Face Recognition Problem. The function ``` who_is_it() ``` will retur
 * [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 * [IPython](https://ipython.org/)
 * [TensorFlow-Keras](https://www.tensorflow.org/)
-+ [OpenCV Library](https://opencv.org/)
+* [OpenCV Library](https://opencv.org/)
 
 ## License
 

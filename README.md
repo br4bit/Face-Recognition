@@ -29,4 +29,7 @@ It's a Map<Key, Element> when multiple items has the same key.
 ![Example2](http://g.recordit.co/eac08bqaSG.gif)
 #### Step 4 (Optional): There is a cell code that take photo from camera of phone/pc.
 ![Example4](https://i.gyazo.com/2c540ffb92d1cc204340a2d5f679a24d.png)
-#### Step 5: The final exciting step, this cell code will recognize face captured from ``` camera.jpg ``` it's a 1:N Face Recognition Problem. The function ``` who_is_it() ``` will return the distance computed by triplet loss function.
+#### Step 5: The final exciting step, this cell code will recognize face captured from ``` camera.jpg ```.
+![Example6](https://i.gyazo.com/d5c280680e99661a6f317d9d6804ee9a.png)
+It's a 1:N Face Recognition Problem. The function ``` who_is_it() ``` will return the distance computed by triplet loss function.
+![Example5](https://i.gyazo.com/8709bed21d3e820883989b824abce3e1.png)

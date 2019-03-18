@@ -3,7 +3,6 @@
 > All the code was written in colab's notebook <br>
 > The idea and the <b>trained model</b> used are from: [deeplearning.ai](https://www.deeplearning.ai/) courses
 ## How it Works
-![Example0](https://i.gyazo.com/a33c2bd34c2c7f5a6790862f64c6806f.gif)
 ![Example3](https://i.gyazo.com/e1cd4312fc6f90a8309de812f7689fef.png)
 ## Getting Started
 ## Installing
@@ -34,6 +33,7 @@ It's a Map<Key, Element> when multiple items has the same key.
 ![Example6](https://i.gyazo.com/d5c280680e99661a6f317d9d6804ee9a.png)
 It's a 1:N Face Recognition Problem. The function ``` who_is_it() ``` will return the distance computed by triplet loss function.
 ![Example5](https://i.gyazo.com/8709bed21d3e820883989b824abce3e1.png)
+![Example0](https://i.gyazo.com/a33c2bd34c2c7f5a6790862f64c6806f.gif)
 
 ## Built With
 * [![Made In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)

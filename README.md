@@ -13,3 +13,9 @@ Upload on Google Drive <br>
 Open Face_Recognition.ipynb with Colaboratory
 
 ### Running test
+#### Step 1 : First we need to load some images of people in ``` images ``` directory like in this example:
+> images/
+>> name_of_person/
+>>> img1.jpg,img2.jpg,img3.jpg,ecc.
+
+

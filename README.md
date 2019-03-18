@@ -24,5 +24,6 @@ it is advisable to use 10 images per person, taken in different light and ambien
 #### Step 2 : Open Face_Recognition.ipynb with Colaboratory. Execute the first two cells code.
 >![Example](http://g.recordit.co/KiuqIc0Hfa.gif)
 #### Step 3 : Execute the code cell that load all images in a database as Name -> Image. 
-If in the database there are two images of the same person, we will see two vectors for the same person. It's a Map<Key, Element> when multiple items has the same key.
+If in the database there are two images of the same person, we will see two vectors for the same person. <br>
+It's a Map<Key, Element> when multiple items has the same key.
 ![Example2](http://g.recordit.co/eac08bqaSG.gif)

@@ -12,7 +12,6 @@ Setup on Google Drive and use Colaboratory
 $ git clone https://github.com/br4bit/Face-Recognition.git
 ```
 Upload on Google Drive <br>
-
 ### Running test
 #### Step 1 : First we need to load some images of people in ``` images ``` directory like in this example:
 > images/
@@ -28,3 +27,6 @@ it is advisable to use 10 images per person, taken in different light and ambien
 If in the database there are two images of the same person, we will see two vectors for the same person. <br>
 It's a Map<Key, Element> when multiple items has the same key.
 ![Example2](http://g.recordit.co/eac08bqaSG.gif)
+#### Step 4 (Optional): There is a cell code that take photo from camera of phone/pc.
+![Example4](https://i.gyazo.com/2c540ffb92d1cc204340a2d5f679a24d.png)
+#### Step 5: The final exciting step, this cell code will recognize face captured from ``` camera.jpg ``` it's a 1:N Face Recognition Problem. The function ``` who_is_it() ``` will return the distance computed by triplet loss function.

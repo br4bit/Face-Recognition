@@ -15,7 +15,7 @@ Open Face_Recognition.ipynb with Colaboratory
 ### Running test
 #### Step 1 : First we need to load some images of people in ``` images ``` directory like in this example:
 > images/
->> John/
+>> John
 >>> img1.jpg,img2.jpg,img3.jpg,ecc.
 
-
+The code cell will load all images in directory (all formats are accepted).

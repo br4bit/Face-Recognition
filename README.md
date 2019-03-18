@@ -2,7 +2,8 @@
 > Face Recognition notebook with Face Detection and crop of image <br>
 > All the code was written in colab's notebook <br>
 > The idea and the <b>trained model</b> used are from: [deeplearning.ai](https://www.deeplearning.ai/) courses
-
+## How it Works
+![Example3](https://i.gyazo.com/e1cd4312fc6f90a8309de812f7689fef.png)
 ## Getting Started
 ## Installing
 Setup on Google Drive and use Colaboratory

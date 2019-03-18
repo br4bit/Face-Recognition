@@ -1,6 +1,7 @@
 # Face-Recognition
 > Face Recognition notebook with Face Detection and crop of image <br>
 > All the code was written in colab's notebook
+> The idea and the <b>trained model</b> used are from: [deeplearning.ai](https://www.deeplearning.ai/) courses
 
 ## Getting Started
 ## Installing
@@ -20,4 +21,4 @@ Open Face_Recognition.ipynb with Colaboratory
 
 The code cell will load all images in directory (all formats are accepted).<br>
 _Note: More images will improve accuracy of algorithm.<br>
-it is advisable to use 10 images per person, taken in different light and ambient conditions_
+it is advisable to use 10 images per person, taken in different light and ambient conditions._

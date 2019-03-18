@@ -11,7 +11,6 @@ Setup on Google Drive and use Colaboratory
 $ git clone https://github.com/br4bit/Face-Recognition.git
 ```
 Upload on Google Drive <br>
-Open Face_Recognition.ipynb with Colaboratory
 
 ### Running test
 #### Step 1 : First we need to load some images of people in ``` images ``` directory like in this example:
@@ -22,3 +21,6 @@ Open Face_Recognition.ipynb with Colaboratory
 The code cell will load all images in directory (all formats are accepted).<br>
 _Note: More images will improve accuracy of algorithm.<br>
 it is advisable to use 10 images per person, taken in different light and ambient conditions._
+#### Step 2 : Open Face_Recognition.ipynb with Colaboratory. Execute the first two cells code.
+>![Example](http://g.recordit.co/KiuqIc0Hfa.gif)
+ 

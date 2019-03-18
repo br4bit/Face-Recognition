@@ -33,3 +33,13 @@ It's a Map<Key, Element> when multiple items has the same key.
 ![Example6](https://i.gyazo.com/d5c280680e99661a6f317d9d6804ee9a.png)
 It's a 1:N Face Recognition Problem. The function ``` who_is_it() ``` will return the distance computed by triplet loss function.
 ![Example5](https://i.gyazo.com/8709bed21d3e820883989b824abce3e1.png)
+
+## Built With
+* [![Made In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+* [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+* [![made-with-IPython](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://ipython.org/)
+* [![made-with-TensorFlow-Keras](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.tensorflow.org/)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

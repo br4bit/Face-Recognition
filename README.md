@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face Recognition with Detection and Crop
 > Face Recognition notebook with Face Detection and crop of image <br>
 > All the code was written in colab's notebook <br>
 > The idea and the <b>trained model</b> used are from: [deeplearning.ai](https://www.deeplearning.ai/) courses

@@ -3,7 +3,7 @@
 > All the code was written in colab's notebook <br>
 > The idea and the <b>trained model</b> used are from: [deeplearning.ai](https://www.deeplearning.ai/) courses
 ## How it Works
-![Example0](https://gyazo.com/282e0b47323ef26fe2414490ce7ec2f0)
+![Example0](https://i.gyazo.com/a33c2bd34c2c7f5a6790862f64c6806f.gif)
 ![Example3](https://i.gyazo.com/e1cd4312fc6f90a8309de812f7689fef.png)
 ## Getting Started
 ## Installing
